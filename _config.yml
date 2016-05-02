@@ -1,0 +1,28 @@
+name: DjSisko
+favicon: null
+layout_spectrum: 0.24273354280740023
+typography_spectrum: 0.5427839562762529
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.21682950155809522
+  lightness: 0.5472128170076758
+  saturation: 0.26845175004564226
+  rhythmicContrast: 0.2657497338950634
+purpose: []
